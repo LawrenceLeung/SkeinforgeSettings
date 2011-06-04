@@ -1,0 +1,6 @@
+Format is tab separated coil settings.
+_Name                          	Value
+WindowPosition	700+0
+Open File for Coil	
+Activate Coil	True
+Minimum Tool Distance (millimeters):	20.0
