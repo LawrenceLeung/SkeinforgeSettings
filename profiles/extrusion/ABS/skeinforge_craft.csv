@@ -31,9 +31,9 @@ oozebane	False
 outset	False
 preface	False
 raft	False
-scale	True
+scale	False
 skirt	False
-speed	False
+speed	True
 splodge	False
 stretch	False
 temperature	False
