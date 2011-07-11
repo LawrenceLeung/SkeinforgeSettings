@@ -1,5 +1,5 @@
 Format is tab separated skeiniso settings.
-_Name                          	Value
+Name                          	Value
 WindowPosition	700+0
 Open File for Skeiniso	
 Activate Skeiniso	True
@@ -16,18 +16,18 @@ Draw Arrows	False
 Go Around Extruder Off Travel	False
 Layer (index):	0
 Layer Extra Span (integer):	912345678
-Line (index):	14
-Display Line	False
+Line (index):	7
+Display Line	True
 View Move	False
-View Rotate	True
+View Rotate	False
 Number of Fill Bottom Layers (integer):	1
 Number of Fill Top Layers (integer):	1
 Scale (pixels per millimeter):	15.0
 Screen Horizontal Inset (pixels):	100
 Screen Vertical Inset (pixels):	220
 Show Gcode	True
-Viewpoint Latitude (degrees):	38.9
-Viewpoint Longitude (degrees):	167.0
+Viewpoint Latitude (degrees):	31.3
+Viewpoint Longitude (degrees):	188.0
 Width of Axis Negative Side (pixels):	2
 Width of Axis Positive Side (pixels):	6
 Width of Fill Bottom Thread (pixels):	2

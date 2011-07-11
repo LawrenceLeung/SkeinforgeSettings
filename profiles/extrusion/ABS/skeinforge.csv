@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	4+24
-Open File for Skeinforge	/home/lawrence/MakerbotManTest.stl
+WindowPosition	43+22
+Open File for Skeinforge	F:/G Drive/RepRap/jewellery/screwing_box_perfect_bottom.stl
 analyze	False
 craft	True
 help	False

@@ -1,7 +1,7 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	
+Open File for Craft	F:/G Drive/RepRap/Mustache ring/mo_ring.stl
 bottom	False
 carve	False
 chamber	False
@@ -11,7 +11,7 @@ clip	False
 coil	False
 comb	False
 cool	False
-dimension	False
+dimension	True
 drill	False
 export	False
 feed	False
@@ -34,7 +34,7 @@ raft	False
 raftless	False
 scale	False
 skirt	False
-speed	True
+speed	False
 splodge	False
 stretch	False
 temperature	False
