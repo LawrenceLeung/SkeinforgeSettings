@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	43+22
+WindowPosition	248+33
 Open File for Skeinforge	F:/G Drive/RepRap/jewellery/screwing_box_perfect_bottom.stl
 analyze	False
 craft	True

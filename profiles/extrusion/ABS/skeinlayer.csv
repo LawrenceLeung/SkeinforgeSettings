@@ -1,5 +1,5 @@
 Format is tab separated skeinlayer settings.
-Name                          	Value
+_Name                          	Value
 WindowPosition	700+0
 Open File for Skeinlayer	
 Activate Skeinlayer	True
@@ -8,9 +8,9 @@ Animation Line Quickening (ratio):	1.0
 Animation Slide Show Rate (layers/second):	2.0
 Draw Arrows	True
 Go Around Extruder Off Travel	False
-Layer (index):	0
+Layer (index):	6
 Layer Extra Span (integer):	0
-Line (index):	24
+Line (index):	0
 Display Line	False
 View Move	True
 Scale (pixels per millimeter):	15.0
