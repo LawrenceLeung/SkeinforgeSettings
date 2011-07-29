@@ -1,4 +1,4 @@
-M140 S100 ; bed
+M140 S110 ; bed
 M109 S220 ;set temp
 M116 ; wait for temp
 G92 X0 Y0 Z0 E0 ; home current
