@@ -6,10 +6,10 @@ Add Layer Template to SVG	True
 Extra Decimal Places (float):	2.0
 Import Coarseness (ratio):	1.0
 Infill in Direction of Bridge	True
-Layer Thickness (mm):	0.38
+Layer Thickness (mm):	0.47
 Layers From (index):	0
 Layers To (index):	912345678
 Correct Mesh	True
 Unproven Mesh	False
-Perimeter Width over Thickness (ratio):	1.7
+Perimeter Width over Thickness (ratio):	1.76
 SVG Viewer:	webbrowser
