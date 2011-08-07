@@ -3,8 +3,8 @@ _Name                          	Value
 WindowPosition	600+0
 Open File for Analyze	
 comment	False
-interpret	False
+interpret	True
 skeiniso	False
 skeinlayer	False
-statistic	True
+statistic	False
 vectorwrite	False
