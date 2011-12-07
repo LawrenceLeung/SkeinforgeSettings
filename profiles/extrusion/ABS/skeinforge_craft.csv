@@ -2,6 +2,7 @@ Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	F:/G Drive/RepRap/Mustache ring/mo_ring.stl
+bookend	False
 bottom	False
 carve	False
 chamber	False
@@ -24,17 +25,17 @@ inset	False
 jitter	False
 lash	False
 lift	False
-limit	False
+limit	True
 mill	False
 multiply	False
 oozebane	False
 outset	False
 preface	False
 raft	False
-raftless	False
 scale	False
+skin	False
 skirt	False
-speed	True
+speed	False
 splodge	False
 stretch	False
 temperature	False
