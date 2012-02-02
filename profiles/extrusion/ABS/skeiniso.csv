@@ -26,8 +26,8 @@ Scale (pixels per millimeter):	15.0
 Screen Horizontal Inset (pixels):	81
 Screen Vertical Inset (pixels):	119
 Show Gcode	True
-Viewpoint Latitude (degrees):	3.4
-Viewpoint Longitude (degrees):	267.5
+Viewpoint Latitude (degrees):	0.9
+Viewpoint Longitude (degrees):	269.6
 Width of Axis Negative Side (pixels):	2
 Width of Axis Positive Side (pixels):	6
 Width of Fill Bottom Thread (pixels):	2
